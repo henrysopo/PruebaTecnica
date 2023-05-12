@@ -1,0 +1,7 @@
+D:\Trabajos\New folder\PruebaTecnica\SolucionPunto17\bin\Debug\SolucionPunto17.exe.config
+D:\Trabajos\New folder\PruebaTecnica\SolucionPunto17\bin\Debug\SolucionPunto17.exe
+D:\Trabajos\New folder\PruebaTecnica\SolucionPunto17\bin\Debug\SolucionPunto17.pdb
+D:\Trabajos\New folder\PruebaTecnica\SolucionPunto17\obj\Debug\SolucionPunto17.csproj.AssemblyReference.cache
+D:\Trabajos\New folder\PruebaTecnica\SolucionPunto17\obj\Debug\SolucionPunto17.csproj.CoreCompileInputs.cache
+D:\Trabajos\New folder\PruebaTecnica\SolucionPunto17\obj\Debug\SolucionPunto17.exe
+D:\Trabajos\New folder\PruebaTecnica\SolucionPunto17\obj\Debug\SolucionPunto17.pdb
